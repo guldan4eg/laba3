@@ -28,6 +28,6 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-out/
 .idea/
-/Lab 3.iml
+out/
+/laba 3.iml
