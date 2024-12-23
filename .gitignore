@@ -29,5 +29,5 @@ bin/
 .DS_Store
 
 out/
-.idea
-Lab 3.iml/
+.idea/
+/Lab 3.iml
